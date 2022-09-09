@@ -1,0 +1,19 @@
+{
+  "name": "test-scalingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaelity/test-scalingo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaelity/test-scalingo/issues"
+  },
+  "homepage": "https://github.com/Kaelity/test-scalingo#readme"
+}
